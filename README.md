@@ -29,4 +29,4 @@ The top three features contributing significantly to explaining the demand for s
 
 
 ## Contact
-Created by [@shakirahmad878.github.com](https://github.com/shakirahmad878) - feel free to contact me!
+Created by [@shakirahmad878](https://github.com/shakirahmad878) - feel free to contact me!
