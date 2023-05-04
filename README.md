@@ -16,10 +16,17 @@ The demand for shared bikes is highly dependent on factors such as weather, temp
 The linear regression model built on the training set had an R-squared value of 0.80 and was able to accurately predict the demand for shared bikes on the test set.
 The top three features contributing significantly to explaining the demand for shared bikes were temperature, hour, and season.
 ## Technologies Used
-Python 3.7
+- Python 3.7
 - Jupyter Notebook
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+## Acknowledgements
+- This project was inspired by: IIIT Bangalore & Upgrad
+
+
+## Contact
+Created by [@shakirahmad878.github.com](https://github.com/shakirahmad878) - feel free to contact me!
